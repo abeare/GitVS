@@ -7,6 +7,7 @@ namespace GitVS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello from visual studio code");
         }
     }
 }
